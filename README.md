@@ -6,7 +6,11 @@ My workflow includes two primary animation techniques: **Frame-by-Frame** and **
 ---
 
 ## POPCAT Animation  
-[Video]()
+<video width="640" controls>
+  <source src="https://raw.githubusercontent.com/pashamuhammadd/myrepo/main/popcat.mp4" type="video/mp4">
+</video>
+
+
 
 This animation was created for the POPCAT project using the **frame-by-frame** method, delivering expressive, dynamic motion with handcrafted detail.
 
